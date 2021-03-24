@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @minneca
+- 👋 Hi, I’m Symone Randle
 - 👀 I’m interested in reading about stats on anything.
 - 🌱 I’m currently learning the basics of management of cloud environments.
 - 📚 I practice coding, read documentations, whitepapers, etc. and attend (now virtual) conferences to keep up with the technical world around me.
